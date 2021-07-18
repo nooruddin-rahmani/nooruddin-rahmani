@@ -2,13 +2,13 @@
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="500" height="320" />
  
  ## I'm a Student, Developer, Designer
-- ✍ You can find me on [Facebook](https://www.facebook.com/nooruddinrahmani100/ "Facebook")
+- 😄You can find me on [Facebook](https://www.facebook.com/nooruddinrahmani100/ "Facebook")
 - 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I.... dont have:(
 
 ### Talk with me, You may like me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
@@ -43,7 +43,10 @@
 
 </details>
 
-[google]: https://www.google.com/
+[google]: (https://www.google.com/)
+<br/>
 [Facebook](https://www.facebook.com/nooruddinrahmani100/ "Facebook")
-[Linked In](https://www.linkedin.com/in/nooruddin-rahmani-5591a5200/ "LinkedIn")
-[Instagram](hhttps://www.instagram.com/nooruddinrahmani100/ "Instagram")
+<br/>
+[LinkedIn](https://www.linkedin.com/in/nooruddin-rahmani-5591a5200/ "LinkedIn")
+<br/>
+[Instagram](https://www.instagram.com/nooruddinrahmani100/ "Instagram")
