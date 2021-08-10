@@ -1,5 +1,5 @@
 ### Hey You!!!, I'm Nooruddin - Rahmani 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="495" height="300" />
 
 ## I'm a Student, A Brother, A NewbieDeveloper
 
