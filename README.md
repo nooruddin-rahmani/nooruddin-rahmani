@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="./character.svg" />
+  <img  src="./character(gif).gif" />
 </p>
 
 <summary align=center ><h1>Hey I'm Nooruddin<br>Rahmani</h1></Summary>
