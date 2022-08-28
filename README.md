@@ -17,7 +17,9 @@
  <br>
  [Instagram](https://www.instagram.com/noor_rahmani.me/)
 <br>
+<br>
 [View my Portfolio](https://nooruddin-rahmani.github.io/)
+<br>
  [Download My Resume](https://drive.google.com/file/d/1DgHTxC4dTu8hN_9gAsuXQrDAevF8ewr0/view?usp=sharing/)
 
 ---
